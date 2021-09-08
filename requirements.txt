@@ -9,4 +9,3 @@ fuzzywuzzy
 python-Levenshtein
 pyppeteer
 pyppeteer_stealth
-charset_normalizer
